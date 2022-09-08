@@ -1,0 +1,3 @@
+The sales for each store is: 
+  NoneRelationship between sales and customer is described as:
+ None
