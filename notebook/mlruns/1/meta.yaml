@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/ACF/PycharmProjects/Sales_prediction/notebook/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: Sales prediction mlflow
